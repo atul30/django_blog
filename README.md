@@ -1,2 +1,2 @@
 # django_blog
-Blog using Java
+Blog using Python and Django
